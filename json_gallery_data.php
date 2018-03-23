@@ -2,8 +2,8 @@
 
 header("Content-Type: application/json");
 
-//$folder =$_POST["folder"];
-$folder ="gallery1";
+$folder =$_POST["folder"];
+//$folder ="gallery1";
 $jsonData='{';
 $dir=$folder."/";
 $dirHandle=opendir($dir);
