@@ -8,4 +8,7 @@ the picture frame at the center of the screen. To the right is a small box which
 photo galleries to veiw the images in them.
 
 
+https://simplephotogallery.herokuapp.com/ is the link to which you can access the app. 
+
+
 Thank you !! 
